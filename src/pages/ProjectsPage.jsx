@@ -10,17 +10,18 @@ const ProjectsPage = () => {
   const projects = [
     {
       title: "나의 프로젝트1",
-      description: "React를 사용하여 만든 계산기 애플리케이션",
-      image: sampleImage,
+      description: "머신러닝 기반 이미지 보정 프로젝트",
+      linl: "https://github.com/kang0225/sharpening-image-by-ausm"
     },
     {
       title: "나의 프로젝트2",
-      description: "캡스톤 프로젝트에서의 딥러닝 기반 영상 분류 시스템",
+      description: "캡스톤 프로젝트에서의 서울시 혼잡도 예측 플랫폼",
+      link: "https://github.com/kang0225/seoul-low-congestion-explorer"
     },
     {
       title: "나의 프로젝트3",
-      description: "나만의 맛집 저장리스트 ~~",
-      link: "https://map.naver.com/p/entry/place/18697937?c=15.00,0,0,0,dh",
+      description: "서울시 미세먼지 예측 ai 모델",
+      link: "https://github.com/kang0225/air-quality-logistic-regression",
     },
   ];
 
