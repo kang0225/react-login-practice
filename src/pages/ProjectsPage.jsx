@@ -11,7 +11,7 @@ const ProjectsPage = () => {
     {
       title: "나의 프로젝트1",
       description: "머신러닝 기반 이미지 보정 프로젝트",
-      linl: "https://github.com/kang0225/sharpening-image-by-ausm"
+      link: "https://github.com/kang0225/sharpening-image-by-ausm",
     },
     {
       title: "나의 프로젝트2",
